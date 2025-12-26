@@ -11,7 +11,7 @@ export default function Home() {
           Expertise in building secure, well-documented backend solutions.
         </p>
         <div className="flex flex-wrap gap-4">
-          <a href="https://drive.google.com/file/d/1f8B0p-ZRgCftF5PPUBOGccCZ2afzabVS/view?usp=sharing" className="px-6 py-3 bg-gray-900 text-white hover:bg-gray-800 transition-all font-medium rounded-sm">
+          <a href="https://drive.google.com/file/d/1Ta_RQQ4HEwyernSvxY66I3q0_FkV7vYm/view?usp=sharing" className="px-6 py-3 bg-gray-900 text-white hover:bg-gray-800 transition-all font-medium rounded-sm">
             Download CV
           </a>
           <div className="flex gap-2">
@@ -141,7 +141,7 @@ export default function Home() {
           <div>
             <h3 className="text-sm font-bold text-gray-400 uppercase tracking-widest mb-6">Tools & Standards</h3>
             <div className="flex flex-wrap gap-3">
-              {['Sanctum', 'JWT', 'Docker', 'Postman', 'Swagger', 'Git', 'CI/CD', 'Railway', 'Supabase', 'Cloudflare'].map((tool) => (
+              {['Sanctum', 'JWT', 'Docker', 'Postman', 'Swagger', 'Git', 'CI/CD', 'Railway', 'Supabase', 'Vercel', 'Cloudflare'].map((tool) => (
                 <span key={tool} className="px-4 py-2 bg-white border border-gray-200 rounded-sm text-sm font-medium shadow-sm">
                   {tool}
                 </span>
