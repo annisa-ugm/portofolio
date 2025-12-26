@@ -11,7 +11,7 @@ export default function Home() {
           Expertise in building secure, well-documented backend solutions.
         </p>
         <div className="flex flex-wrap gap-4">
-          <a href="#" className="px-6 py-3 bg-gray-900 text-white hover:bg-gray-800 transition-all font-medium rounded-sm">
+          <a href="https://drive.google.com/file/d/1f8B0p-ZRgCftF5PPUBOGccCZ2afzabVS/view?usp=sharing" className="px-6 py-3 bg-gray-900 text-white hover:bg-gray-800 transition-all font-medium rounded-sm">
             Download CV
           </a>
           <div className="flex gap-2">
